@@ -7,3 +7,9 @@
     padding: 15px;
     background-color: gainsboro;
 }
+.important{
+    font-style: oblique;
+}
+body {
+    font-family: sans-serif;
+}
